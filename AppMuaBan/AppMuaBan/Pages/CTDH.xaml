@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMuaBan.CTDH"
+             Title="Chi tiet don hang">
+    <ScrollView>
+        <StackLayout>
+            <Label Text="Ten san pham:"   FontSize="Medium"   Padding="10"/>
+            <Label Text="{Binding TenSP}"   FontSize="Medium"   Padding="20"/>
+            <Label Text="So luong:"   FontSize="Medium"   Padding="10"/>
+            <Label Text="{Binding SL}"   FontSize="Medium"   Padding="20"/>
+            <Label Text="Dia chi giao hang"   FontSize="Medium"   Padding="10"/>
+            <Label Text="{Binding Address}"   FontSize="Medium"   Padding="20"/>
+            <Label Text="So dien thoai lien lac:"   FontSize="Medium"   Padding="10"/>
+            <Label Text="{Binding SDT}"   FontSize="Medium"   Padding="20"/>
+            <Label Text="Thoi gian dat hang:"   FontSize="Medium"   Padding="10"/>
+            <Label Text="{Binding date}"   FontSize="Medium"   Padding="20"/>
+            <Button Text="Delete" Clicked="Button_Clicked"   Padding="10"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

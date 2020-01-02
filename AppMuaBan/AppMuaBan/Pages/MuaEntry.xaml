@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppMuaBan.MuaEntry"
+             Title="Dat hang">
+    <StackLayout Margin="20">
+        <Label Text="{Binding TenSP}"   HorizontalOptions="Center"  FontSize="20"/>
+        <Label Text="{Binding Price}"   HorizontalOptions="Center"  FontSize="Medium"/>
+        <Label Text="Nhap so luong:"/>
+        <Entry x:Name="soluong"/>
+        <Label Text="Nhap dia chi giao hang:"/>
+        <Entry x:Name="diachi"/>
+        <Label Text="Nhap SDT:"/>
+        <Entry x:Name="sodt"/>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button Text="Save"
+                Clicked="OnSaveButtonClicked" />
+            <Button Grid.Column="1"
+                Text="Cancel"
+                Clicked="OnCancelButtonClicked"/>
+        </Grid>
+    </StackLayout>
+</ContentPage>

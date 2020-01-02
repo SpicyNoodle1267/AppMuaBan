@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\AppMuaBan\AppMuaBan\AppMuaBan\bin\Release\netstandard2.0\AppMuaBan.deps.json
+C:\Users\ASUS\source\repos\AppMuaBan\AppMuaBan\AppMuaBan\bin\Release\netstandard2.0\AppMuaBan.dll
+C:\Users\ASUS\source\repos\AppMuaBan\AppMuaBan\AppMuaBan\bin\Release\netstandard2.0\ref\AppMuaBan.dll
+C:\Users\ASUS\source\repos\AppMuaBan\AppMuaBan\AppMuaBan\bin\Release\netstandard2.0\AppMuaBan.pdb
+C:\Users\ASUS\source\repos\AppMuaBan\AppMuaBan\AppMuaBan\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\ASUS\source\repos\AppMuaBan\AppMuaBan\AppMuaBan\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ASUS\source\repos\AppMuaBan\AppMuaBan\AppMuaBan\obj\Release\netstandard2.0\Pages\Mua.xaml.g.cs
+C:\Users\ASUS\source\repos\AppMuaBan\AppMuaBan\AppMuaBan\obj\Release\netstandard2.0\AppMuaBan.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AppMuaBan\AppMuaBan\AppMuaBan\obj\Release\netstandard2.0\AppMuaBan.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AppMuaBan\AppMuaBan\AppMuaBan\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\ASUS\source\repos\AppMuaBan\AppMuaBan\AppMuaBan\obj\Release\netstandard2.0\AppMuaBan.dll
+C:\Users\ASUS\source\repos\AppMuaBan\AppMuaBan\AppMuaBan\obj\Release\netstandard2.0\ref\AppMuaBan.dll
+C:\Users\ASUS\source\repos\AppMuaBan\AppMuaBan\AppMuaBan\obj\Release\netstandard2.0\AppMuaBan.pdb
